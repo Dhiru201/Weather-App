@@ -13,7 +13,8 @@ To run this project locally, follow these steps:
 ###  git clone https://github.com/your-username/weather-app.git
 
 2. Navigate to the project directory:
-### cd weather-app
+### 
+<tab><tab>code/text here cd weather-app
 
 3. Install dependencies using npm or yarn:
 ### npm install
